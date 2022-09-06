@@ -1,0 +1,48 @@
+
+.parallax {
+    /* The image used */
+    background-image: url("../img/Chal1.jpg");
+  
+    /* Set a specific height */
+    min-height: 700px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .slide-1-bg {
+    /* The image used */
+    background-image: url("../img/Chal1.jpg");
+}
+
+.slide-2-bg {
+    /* The image used */
+    background-image: url("../img/Chal2.jpg");
+}
+
+.slide-3-bg {
+    background-image: url("../img/Chal3.jpg");
+}
+
+.slide-4-bg {
+    background-image: url("../img/Chal4.jpg");
+}
+
+.slide-5-bg {
+    background-image: url("../img/Chal5.jpg");
+}
+
+
+
+
+.text-box {
+    background:black;
+    opacity: 0.8;
+    width:50%;
+    padding:20px;
+    margin:auto;
+    color: antiquewhite;
+} 
